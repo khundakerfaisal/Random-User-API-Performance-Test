@@ -14,7 +14,8 @@ This is the Random-user-Api-performance test and the report has displayed in the
 ## Load Test report
 ![image](https://github.com/khundakerfaisal/Random-User-API-Performance-Test/assets/44666800/2e10662a-2044-4daf-b593-b77f5a044d4d)
 ## Stress Test report
-![image](https://github.com/khundakerfaisal/Random-User-API-Performance-Test/assets/44666800/e24a0968-5d1b-4b42-95f1-c0adb3c4c4d9)
+![image](https://github.com/khundakerfaisal/Random-User-API-Performance-Test/assets/44666800/d400cb0a-b9a1-4284-97eb-26294597cbf2)
+
 ## Stress Test CLI Report
 ![cli reort 1](https://github.com/khundakerfaisal/Random-User-API-Performance-Test/assets/44666800/c46c09dc-80bc-4214-bc8b-c0d44ef99e33)
 ## HTML Report
